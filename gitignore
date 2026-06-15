@@ -1,0 +1,77 @@
+# Compiled class files
+
+*.class
+
+# Log files
+
+*.log
+
+# Package files
+
+*.jar
+*.war
+*.ear
+
+# Java build directories
+
+target/
+build/
+out/
+
+# Python cache
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+
+venv/
+.env/
+.venv/
+
+# IDE files
+
+.idea/
+.vscode/
+*.iml
+
+# Eclipse files
+
+.project
+.classpath
+.settings/
+
+# NetBeans files
+
+nbproject/private/
+
+# OS-generated files
+
+.DS_Store
+Thumbs.db
+
+# Temporary files
+
+*.tmp
+*.swp
+*.bak
+
+# Environment variables
+
+.env
+
+# Test output
+
+coverage/
+htmlcov/
+.pytest_cache/
+
+# Node.js (if applicable)
+
+node_modules/
+
+# Generated files
+
+dist/
+release/
